@@ -6,7 +6,6 @@ A modern, high-performance, and immersive parallax scrolling website built using
 
 ## 🌐 Live Demo
 You can view the live project here:  
-👉 **[INSERT YOUR GITHUB PAGES LINK HERE]**  
 *(e.g., https://your-username.github.io/parallax-site/)*
 
 ---

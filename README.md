@@ -4,10 +4,6 @@ A modern, high-performance, and immersive parallax scrolling website built using
 
 ---
 
-## 🌐 Live Demo
-You can view the live project here:  
-*(e.g., https://Qubic-alt.github.io/parallax-site/)*
-
 ---
 
 ## ✨ Key Features

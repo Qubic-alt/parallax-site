@@ -1,48 +1,51 @@
 # 🚀 Advanced Interactive Parallax Experience
 
-एक आधुनिक, इंटरैक्टिव और स्मूथ पैरलैक्स स्क्रॉलिंग वेबसाइट जिसे **GSAP (GreenSock Animation Platform)** और **ScrollTrigger** का उपयोग करके बनाया गया है। यह प्रोजेक्ट गहराई (Depth) और मोशन का एक बेहतरीन अनुभव प्रदान करता है।
+A modern, high-performance, and immersive parallax scrolling website built using **GSAP (GreenSock Animation Platform)** and the **ScrollTrigger** plugin. This project demonstrates advanced front-end techniques to create a sense of depth and fluid motion.
 
 ---
 
 ## 🌐 Live Demo
-आप इस प्रोजेक्ट को यहाँ लाइव देख सकते हैं:  
-👉 **[यहाँ अपना GitHub Pages लिंक डालें]** (जैसे: https://your-username.github.io/parallax-site/)
+You can view the live project here:  
+👉 **[INSERT YOUR GITHUB PAGES LINK HERE]**  
+*(e.g., https://your-username.github.io/parallax-site/)*
 
 ---
 
-## ✨ Features (मुख्य विशेषताएं)
+## ✨ Key Features
 
-- **Advanced Parallax:** विभिन्न लेयर्स अलग-अलग गति (speeds) पर चलती हैं, जिससे एक 3D गहराई का अहसास होता है।
-- **GSAP ScrollTrigger:** स्क्रॉलिंग के साथ एनिमेशन पूरी तरह सिंक (Sync) हैं।
-- **Horizontal Scroll Section:** वर्टिकल स्क्रॉल के दौरान कंटेंट साइडवेज (sideways) मूव करता है।
-- **Zoom Portal Effect:** एक अनोखा एनिमेशन जहाँ एक छोटा एलिमेंट ज़ूम होकर पूरा बैकग्राउंड बन जाता है।
-- **Custom Interactive Cursor:** माउस के साथ चलने वाला एक कस्टम कर्सर जो इंटरैक्शन को बढ़ाता है।
-- **Responsive Design:** डेस्कटॉप और मोबाइल दोनों के लिए अनुकूलित।
-
----
-
-## 🛠️ Tech Stack (इस्तेमाल की गई तकनीकें)
-
-- **HTML5:** स्ट्रक्चर और सिमेंटिक लेआउट के लिए।
-- **CSS3:** कस्टम डिज़ाइन, ग्लासमोर्फिज्म (Glassmorphism) और लेआउट के लिए।
-- **JavaScript (ES6+):** इंटरैक्टिविटी के लिए।
-- **GSAP Library:** स्मूथ और हाई-परफॉरमेंस एनिमेशन के लिए।
-- **ScrollTrigger Plugin:** स्क्रॉल-आधारित ट्रिगर के लिए।
+- **Multi-Layered Parallax:** Background and foreground elements move at different speeds to create a realistic 3D depth effect.
+- **GSAP ScrollTrigger:** Every animation is perfectly synchronized with the user's scrollbar for a "smooth scrub" feel.
+- **Horizontal Scroll Section:** A unique layout transition where vertical scrolling moves content horizontally across the screen.
+- **The "Zoom Portal" Effect:** An advanced animation where a central element scales up to become the background of the next section.
+- **Custom Interactive Cursor:** A specialized mouse follower that reacts to movement, enhancing the user's interactive experience.
+- **Responsive & Optimized:** Built with performance in mind to ensure smooth animations across modern browsers.
 
 ---
 
-## 📸 Screenshots
+## 🛠️ Tech Stack
 
-| Hero Section | Horizontal Scroll | Zoom Effect |
+- **HTML5:** Semantic structure and layout.
+- **CSS3:** Custom styling, Glassmorphism effects, and modern typography.
+- **JavaScript (ES6+):** Core logic and interactivity.
+- **GSAP:** Industry-standard animation library for high-performance motion.
+- **ScrollTrigger:** For handling complex scroll-based triggers and pinning.
+
+---
+
+## 📸 Project Preview
+
+| Hero Parallax | Horizontal Journey | Portal Zoom |
 | :--- | :--- | :--- |
 | ![Hero](https://via.placeholder.com/300x200?text=Hero+Section) | ![Horizontal](https://via.placeholder.com/300x200?text=Horizontal+Scroll) | ![Zoom](https://via.placeholder.com/300x200?text=Zoom+Effect) |
 
-*(नोट: यहाँ अपने प्रोजेक्ट के असली स्क्रीनशॉट डालें)*
+*(Note: Replace these placeholders with your actual project screenshots once hosted)*
 
 ---
 
-## 🚀 How to Run (कैसे चलाएं)
+## 🚀 Getting Started
 
-1. इस रिपोजिटरी को क्लोन करें:
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/YOUR_USERNAME/parallax-site.git
